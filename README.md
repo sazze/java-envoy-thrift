@@ -13,6 +13,7 @@ $ mvn deploy
 Import
 ------------
 Maven
+
 ``` XML
 <dependency>
     <groupId>com.sazze.en</groupId>
@@ -22,6 +23,7 @@ Maven
 ```
 
 sbt
+
 ``` Scala
 "com.sazze.en" % "envoy-thrift-java" % "VERSION"
 ```
